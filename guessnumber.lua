@@ -1,4 +1,5 @@
 math.randomseed(os.time())
+math.random(); math.random(); math.random(); math.random(); math.random(); math.random(); math.random(); 
 generatedNumber = math.random(1,100)
 
 while(selectedNumber ~=  generatedNumber)
